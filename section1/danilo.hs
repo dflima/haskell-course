@@ -1,0 +1,1 @@
+f = sum . filter odd
